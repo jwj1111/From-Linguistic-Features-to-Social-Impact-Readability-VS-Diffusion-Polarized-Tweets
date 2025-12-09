@@ -1,0 +1,6 @@
+metric,correlation_method,correlation,p_value,significance,normal_metric,normal_spread
+char_per_word,Spearman,0.1072,0.0,True,False,False
+syll_per_word,Spearman,0.1118,0.0,True,False,False
+complex_ratio,Spearman,0.1175,0.0,True,False,False
+long_ratio,Spearman,0.1235,0.0,True,False,False
+difficult_ratio,Spearman,0.0833,0.0,True,False,False

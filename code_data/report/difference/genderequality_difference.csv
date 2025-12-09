@@ -1,0 +1,6 @@
+metric,method,p,significance,effect_type,effect_size,polarized_median,neutral_median,normal_polarized,normal_neutral,homoscedastic
+char_per_word,Mann-Whitney U,0.0,True,Rank-biserial r,-0.15,4.875,5.0833,False,False,False
+syll_per_word,Mann-Whitney U,0.0,True,Rank-biserial r,-0.1513,1.55,1.6364,False,False,False
+complex_ratio,Mann-Whitney U,0.0,True,Rank-biserial r,-0.1428,0.1622,0.1923,False,False,False
+long_ratio,Mann-Whitney U,0.0,True,Rank-biserial r,-0.1611,0.2381,0.2727,False,False,False
+difficult_ratio,Mann-Whitney U,0.0,True,Rank-biserial r,-0.1889,0.3659,0.4211,False,False,False
